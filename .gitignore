@@ -1,0 +1,54 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+.idea/uiDesigner.xml
+.idea/misc.xml
+.idea/encodings.xml
+src/test/resources/filestoUpload/screenshotcom.github.javafaker.Name@131777e8.png
+src/test/resources/filestoUpload/screenshotcom.github.javafaker.Name@1868ed54.png
+src/test/resources/filestoUpload/screenshotcom.github.javafaker.Name@20e3b165.png
+src/test/resources/filestoUpload/screenshotcom.github.javafaker.Name@21e39b82.png
+src/test/resources/filestoUpload/screenshotcom.github.javafaker.Name@2cf88901.png
+src/test/resources/filestoUpload/screenshotcom.github.javafaker.Name@3c826498.png
+src/test/resources/filestoUpload/screenshotcom.github.javafaker.Name@451af781.png
+src/test/resources/filestoUpload/screenshotcom.github.javafaker.Name@46d69ca4.png
+src/test/resources/filestoUpload/screenshotcom.github.javafaker.Name@46fb9581.png
+src/test/resources/filestoUpload/screenshotcom.github.javafaker.Name@50bb1c1f.png
+src/test/resources/filestoUpload/screenshotcom.github.javafaker.Name@5c9b5e62.png
+src/test/resources/filestoUpload/screenshotcom.github.javafaker.Name@5f9a8ddc.png
+src/test/resources/filestoUpload/screenshotcom.github.javafaker.Name@73d8c8d7.png
